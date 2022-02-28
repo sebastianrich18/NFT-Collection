@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# NFT-Collection
+>For learn web3 DAO sophmore track
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Contract (rinkeby): [0xd0a9b219a70b0887541e46c13152bf1c2467281e](https://rinkeby.etherscan.io/address/0xd0a9b219a70b0887541e46c13152bf1c2467281e) <br>
+Minting site: https://nft-collection-gamma.vercel.app/
+Opensea: https://testnets.opensea.io/collection/crypto-devs-if3vp2cb5x
